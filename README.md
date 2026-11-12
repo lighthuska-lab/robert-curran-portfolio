@@ -22,7 +22,10 @@ For a new GitHub repository, push this directory as the repository root on `main
 
 ## Updating the site
 
-- Content: `index.html`
+- Overview: `index.html`
+- Work case studies: `work.html`
+- Browser résumé and career timeline: `resume.html`
+- About and contact: `about.html`
 - Visual design and mobile layout: `styles.css`
 - Copy-email interaction: `app.js`
 - Résumé download: `robert-curran-resume.pdf`
